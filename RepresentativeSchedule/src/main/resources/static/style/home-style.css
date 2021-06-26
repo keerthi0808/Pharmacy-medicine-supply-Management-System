@@ -1,0 +1,21 @@
+.row {
+    display: flex;
+    flex-wrap: wrap;
+ }
+ .navbar-brand
+{
+color:white;
+}
+ .row > div[class*='col-'] {
+   display: flex;
+ }
+ body {
+    background-image: url("https://i.pinimg.com/736x/a0/b4/c9/a0b4c9d2e2641771bbf4b1c296fee163.jpg");
+    background-color:black;
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+
+   }
+body background-image{
+    opacity: 0.2;
+}
